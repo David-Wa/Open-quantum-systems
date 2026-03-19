@@ -4,6 +4,10 @@ A collection of Jupyter notebooks exploring numerical methods for open and many-
 
 ---
 
+## Author
+- **David Wagner**: david.wagner@etu.ec-lyon.fr
+
+
 ## Notebooks
 
 ### 1. `Atom_in_a_thermal_cavity.ipynb`
